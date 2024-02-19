@@ -8,7 +8,7 @@
 
 In the competitive food service industry, the client, Ben, aims to launch a pizzeria that stands out by offering efficient delivery and takeout services. The primary challenge lies in creating a tailor-made database system that not only captures all critical operational data but also integrates with business intelligence tools to enable quick, data-driven decisions.
 
-## Solution Features
+## Solution Features 
 
 - **Tailored SQL Database Design**: "Slice & Dice" features a custom-built SQL database that mirrors the unique operational needs of a pizzeria, ensuring accurate tracking of orders, inventory, and staffing.
 
